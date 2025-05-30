@@ -1,4 +1,4 @@
-## Hello, World! 👋
+## Welcome to Rasa! 👋
 Welcome to Rasa's organization on GitHub.
 * ⭐️ Get started with Rasa: [Installation Guide](https://rasa.com/docs/pro/installation/overview/?utm_campaign=11072583-2025-04-Rasa-Github&utm_source=github&utm_content=get_started)
 * 👀 Explore Rasa's [Docs](https://rasa.com/docs/?utm_campaign=11072583-2025-04-Rasa-Github&utm_source=github&utm_content=rasa_docs)
