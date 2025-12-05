@@ -27,7 +27,7 @@
 | **🤖 Start Building** | **🧠 Join the Conversation** |
 | :--- | :--- |
 | **[Try Hello Rasa](https://hello.rasa.ai/?utm_source=github&utm_medium=website&utm_campaign=)** | **[Agent Engineering Community](https://info.rasa.com/community?utm_source=github&utm_medium=website&utm_campaign=)** |
-| The fastest way to prototype. An interactive playground to build **CALM** (Conversational AI with Language Models) agents in your browser.<br><br>✨ **No setup required**<br>✨ **No NLU training needed**<br>✨ **Built-in Copilot** | The global home for people building real-world AI agents. A vendor-neutral space to discuss architectures, memory, and orchestration.<br><br>🤝 **Meet other builders**<br>🛠️ **Share agent patterns**<br>🎓 **Learn form the best** |
+| The fastest way to prototype. An interactive playground to build **CALM** (Conversational AI with Language Models) agents in your browser.<br><br>✨ **No setup required**<br>✨ **No NLU training needed**<br>✨ **Built-in Copilot** | The home for people building real-world AI agents. A vendor-neutral space to discuss architectures, memory, and orchestration.<br><br>🤝 **Meet other builders**<br>🛠️ **Share agent patterns**<br>🎓 **Learn form the best** |
 
 <br />
 
