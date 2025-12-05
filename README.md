@@ -2,7 +2,7 @@
 
 <h3 align="center">
   <picture>
-    <img alt="Rasa Banner" src="https://raw.githubusercontent.com/rasaHQ/.github/refs/heads/main/assets/banner-rasa-1200x300.png">
+    <img alt="Rasa Banner" src="https://github.com/RasaHQ/.github/blob/readme/update-hello-rasa-community/assets/banner-rasa-1200x300.png?raw=true">
   </picture>
 </h3>
 
