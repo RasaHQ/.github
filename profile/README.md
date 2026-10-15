@@ -2,62 +2,74 @@
 
 <h3 align="center">
   <picture>
-    <img alt="Rasa Banner" src="https://github.com/RasaHQ/.github/blob/readme/update-hello-rasa-community/assets/banner-rasa-1200x300.png?raw=true">
+    <img alt="Rasa Banner" src="https://github.com/RasaHQ/.github/blob/main/assets/banner-rasa-1280x320-light.png?raw=true">
   </picture>
 </h3>
 
-# Build AI Agents you can trust to handle real world complexity
+# Rasa
 
-[![Hello Rasa](https://img.shields.io/badge/Start_Building-Hello_Rasa-ff69b4?style=for-the-badge)](https://hello.rasa.ai/?utm_source=github&utm_medium=website&utm_campaign=)
-[![Join Community](https://img.shields.io/badge/Join_Community-Agent_Engineering-blueviolet?style=for-the-badge)](https://info.rasa.com/community?utm_source=github&utm_medium=website&utm_campaign=)
-[![Rasa Docs](https://img.shields.io/badge/Read_Docs-Rasa_Platform-000000?style=for-the-badge)](https://rasa.com/docs/?utm_campaign=11072583-2025-04-Rasa-Github&utm_source=github&utm_content=rasa_docs)
+### Build agents your company brags about.
 
-<p align="center">
-  <b>Rasa</b> empowers developers to build, deploy, and scale conversational AI agents that are flexible enough for LLMs but reliable enough for enterprise business logic.
-</p>
+Build voice and chat AI agents with **Rasa Mantle**.  
+Start with natural-language skills. Add precise control where your business needs it.
+
+**[Get a free developer license](https://rasa.community/license/) · [Build your first agent](https://rasa.community/quickstart/) · [Read the Mantle docs](https://mantle.rasa.com/)**
+
+[Website](https://rasa.com/) · [Community](https://rasa.community/) · [Join the community](https://rasa.community/join/)
 
 </div>
 
 ---
 
-<br />
+## Meet Rasa Mantle
 
-## 🚀 Two Ways to Get Started
+**Mantle is the orchestrator at the heart of the Rasa Platform.** It selects skills, calls tools, manages context, and coordinates the conversation so your agent can help people get things done.
 
-| **🤖 Start Building** | **🧠 Join the Conversation** |
+- **Start with skills.** Describe what your agent should do in plain language and connect the tools it needs.
+- **Add control as you go.** Enforce required information, confirmation steps, exact responses, and ordered actions where they matter.
+- **Build for voice and chat.** Use the same skills across both channels and tune the voice experience.
+- **Inspect and improve.** Follow execution traces in Inspector to understand what happened, then test changes against realistic conversations.
+
+For engineers, conversation designers, product managers, and everyone working together to build better AI agents.
+
+## Start building
+
+1. **[Get your free Developer Edition license](https://rasa.community/license/).** Request a key to start building with Rasa.
+2. **[Follow the community quickstart](https://rasa.community/quickstart/).** Run a complete local agent, inspect its tool calls, make your first change, and add voice.
+3. **[Explore the Mantle docs](https://mantle.rasa.com/).** Learn about skills, tools, memory, progressive control, voice, and evaluation.
+
+Already working with Rasa Pro or Studio? Find their documentation at **[rasa.com/docs](https://rasa.com/docs/)**.
+
+## Build with the community
+
+**[rasa.community](https://rasa.community/)** brings together practical learning, community projects, and ways to work with other builders and the Rasa team.
+
+| Explore | What you’ll find |
 | :--- | :--- |
-| **[Try Hello Rasa](https://hello.rasa.ai/?utm_source=github&utm_medium=website&utm_campaign=)** | **[Agent Engineering Community](https://info.rasa.com/community?utm_source=github&utm_medium=website&utm_campaign=)** |
-| The fastest way to prototype. An interactive playground to build **CALM** (Conversational AI with Language Models) agents in your browser.<br><br>✨ **No setup required**<br>✨ **No NLU training needed**<br>✨ **Built-in Copilot** | The home for people building real-world AI agents. A vendor-neutral space to discuss architectures, memory, and orchestration.<br><br>🤝 **Meet other builders**<br>🛠️ **Share agent patterns**<br>🎓 **Learn form the best** |
+| **[Library](https://rasa.community/library/)** | Tutorials, guides, and examples for building, testing, and operating agents. |
+| **[Showcase](https://rasa.community/showcase/)** | Projects to explore and ideas for your next build. |
+| **[Rasa Heroes](https://rasa.community/heroes/)** | A program for developers who build with Rasa, publish their projects, and share what they learn. |
+| **[Office hours](https://rasa.community/office-hours/)** | Bring your questions and discuss your agent with the community and Rasa team. |
+| **[Contribute](https://rasa.community/contribute/)** | Find ways to contribute to the community. |
+| **[Support](https://rasa.community/support/)** | Find the right place to ask for help. |
 
-<br />
+**[Join the community](https://rasa.community/join/)** to connect with other builders and the Rasa team.
 
-## ⚡ Rasa Pro & Enterprise
+## Explore our repositories
 
-For teams ready to scale to production, **Rasa Pro** adds enterprise-grade security, analytics, and observability.
-* **[Get a Free Developer License](https://rasa.com/rasa-pro-developer-edition-license-key-request/?utm_campaign=11072583-2025-04-Rasa-Github&utm_source=github&utm_content=dev_edition)** (Run Rasa Pro for free, up to 1,000 conversations/month).
-* **[Read the Pro Docs](https://rasa.com/docs/rasa-pro)**.
+| Repository | Purpose |
+| :--- | :--- |
+| **[RasaHQ/rasa-sdk](https://github.com/RasaHQ/rasa-sdk)** | Python SDK for developing Rasa custom actions. |
+| **[RasaHQ/helm-charts](https://github.com/RasaHQ/helm-charts)** | Helm charts for deploying Rasa products on Kubernetes. |
+| **[RasaHQ/rasa](https://github.com/RasaHQ/rasa)** | Rasa Open Source, the earlier NLU and dialogue-management framework. Currently in maintenance mode. |
 
-<br />
-
-## 📂 Key Repositories
-
-While we are innovating with Hello Rasa, our core ecosystem remains open and robust:
-
-* **[rasa/rasa](https://github.com/RasaHQ/rasa)** - The core open source machine learning framework for automated text and voice-based conversations.
-* **[rasa/rasa-sdk](https://github.com/RasaHQ/rasa-sdk)** - Python SDK for developing custom actions and interacting with Rasa.
-* **[rasa/helm-charts](https://github.com/RasaHQ/helm-charts)** - Standardized Helm charts for deploying Rasa on Kubernetes.
-
-<br />
+**Starting a new Mantle agent? [Begin with the quickstart](https://rasa.community/quickstart/).**
 
 ---
 
 <div align="center">
 
-### Connect with us
-
-[<img src="https://img.shields.io/badge/YouTube-Rasa-red?style=flat-square&logo=youtube" width="100"/>](https://www.youtube.com/@RasaHQ?utm_campaign=11072583-2025-04-Rasa-Github&utm_source=github&utm_content=rasa_youtube)
-[<img src="https://img.shields.io/badge/LinkedIn-Rasa-blue?style=flat-square&logo=linkedin" width="100"/>](https://www.linkedin.com/company/rasa/?utm_campaign=11072583-2025-04-Rasa-Github&utm_source=github&utm_content=rasa_linkedin)
-[<img src="https://img.shields.io/badge/Forum-Rasa_Community-brightgreen?style=flat-square&logo=discourse" width="130"/>](https://forum.rasa.com/?utm_campaign=11072583-2025-04-Rasa-Github&utm_source=github&utm_content=rasa_forum)
-[<img src="https://img.shields.io/badge/Events-Upcoming-orange?style=flat-square&logo=eventbrite" width="100"/>](https://rasa.com/rasa-events/?utm_campaign=11072583-2025-04-Rasa-Github&utm_source=github&utm_content=rasa_events)
+[Website](https://rasa.com/) · [Mantle docs](https://mantle.rasa.com/) · [Community](https://rasa.community/) · [YouTube](https://www.youtube.com/@RasaHQ) · [LinkedIn](https://www.linkedin.com/company/rasa/)
 
 </div>
+
