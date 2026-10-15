@@ -1,5 +1,11 @@
 <div align="center">
 
+<h3 align="center">
+  <picture>
+    <img alt="Rasa Banner" src="https://github.com/RasaHQ/.github/blob/main/assets/banner-rasa-1280x320-light.png?raw=true">
+  </picture>
+</h3>
+
 # Rasa
 
 ### Build agents your company brags about.
