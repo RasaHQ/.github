@@ -6,7 +6,7 @@
   </picture>
 </h3>
 
-# Build AI Agents you can trust to handle real world complexity
+# Build Agents your company brags about
 
 [![Hello Rasa](https://img.shields.io/badge/Start_Building-Hello_Rasa-ff69b4?style=for-the-badge)](https://hello.rasa.ai/?utm_source=github&utm_medium=website&utm_campaign=)
 [![Join Community](https://img.shields.io/badge/Join_Community-Agent_Engineering-blueviolet?style=for-the-badge)](https://info.rasa.com/community?utm_source=github&utm_medium=website&utm_campaign=)
