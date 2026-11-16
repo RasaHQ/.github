@@ -10,15 +10,15 @@
 
 **Voice and chat AI agents. Natural-language skills. Control where it counts.**
 
-Meet **Rasa Mantle**, the orchestrator at the heart of the Rasa Platform.  
-Built for the engineers, designers, and product teams bringing AI agents to life.
+Rasa is an open-code agent building platform for AI product teams.  
+Built for the engineers, designers, and product teams bringing customer-facing AI agents to life.
 
 <p>
   <a href="https://rasa.community/quickstart/"><img alt="Start building" src="https://img.shields.io/badge/Start_building-181210?style=for-the-badge" height="32"></a>
   &nbsp;
   <a href="https://rasa.community/license/"><img alt="Get a free license" src="https://img.shields.io/badge/Get_a_free_license-F2C6C2?style=for-the-badge" height="32"></a>
   &nbsp;
-  <a href="https://mantle.rasa.com/"><img alt="Read the Mantle docs" src="https://img.shields.io/badge/Mantle_docs-FAF6F0?style=for-the-badge" height="32"></a>
+  <a href="https://rasa.com/docs"><img alt="Read the Rasa docs" src="https://img.shields.io/badge/Mantle_docs-FAF6F0?style=for-the-badge" height="32"></a>
 </p>
 
 [Explore Rasa](https://rasa.com/) &nbsp; · &nbsp; [Join the community](https://rasa.community/join/) &nbsp; · &nbsp; [See what people build](https://rasa.community/showcase/)
@@ -29,7 +29,7 @@ Built for the engineers, designers, and product teams bringing AI agents to life
 
 ## Start simple. Add control. Make it yours.
 
-Describe what your agent should do. Mantle selects the right skill, calls your tools, and keeps track of the conversation. Add explicit rules as your use case demands them.
+Describe what your agent should do. Rasa selects the right skill, calls your tools, and keeps track of the conversation. Add explicit rules as your use case demands them.
 
 <table>
 <tr>
@@ -39,7 +39,7 @@ Describe what your agent should do. Mantle selects the right skill, calls your t
 
 Start with instructions your whole team can read. Connect tools and give each skill the context it needs to do useful work.
 
-**[Explore skills →](https://mantle.rasa.com/)**
+**[Explore skills →](https://rasa.com/docs)**
 
 </td>
 <td width="50%" valign="top">
@@ -48,7 +48,7 @@ Start with instructions your whole team can read. Connect tools and give each sk
 
 Require information, confirm an action, enforce a sequence, or specify an exact response. Add structure where your business needs it.
 
-**[Discover progressive control →](https://mantle.rasa.com/)**
+**[Discover progressive control →](https://rasa.com/docs)**
 
 </td>
 </tr>
@@ -145,7 +145,7 @@ Find the right place to ask for help.
 | **[helm-charts](https://github.com/RasaHQ/helm-charts)** | Helm charts for deploying Rasa products on Kubernetes. |
 | **[rasa](https://github.com/RasaHQ/rasa)** | Rasa Open Source: the earlier NLU and dialogue-management framework, currently in maintenance mode. |
 
-For a new Mantle agent, start with the **[community quickstart](https://rasa.community/quickstart/)**.
+For a new Rasa agent, start with the **[community quickstart](https://rasa.community/quickstart/)**.
 
 <br>
 
@@ -155,6 +155,6 @@ For a new Mantle agent, start with the **[community quickstart](https://rasa.com
 
 **Build something worth talking to.**
 
-[Website](https://rasa.com/) &nbsp; · &nbsp; [Mantle docs](https://mantle.rasa.com/) &nbsp; · &nbsp; [Community](https://rasa.community/) &nbsp; · &nbsp; [YouTube](https://www.youtube.com/@RasaHQ) &nbsp; · &nbsp; [LinkedIn](https://www.linkedin.com/company/rasa/)
+[Website](https://rasa.com/) &nbsp; · &nbsp; [Rasa docs](https://rasa.com/docs) &nbsp; · &nbsp; [Community](https://rasa.community/) &nbsp; · &nbsp; [YouTube](https://www.youtube.com/@RasaHQ) &nbsp; · &nbsp; [LinkedIn](https://www.linkedin.com/company/rasa/)
 
 </div>
